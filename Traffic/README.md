@@ -40,6 +40,8 @@ A PyQt6-based GUI displays predictions for 10 random samples from the test set. 
 
 ## Installation and Usage
 
+To run this project, you need to install the required Python libraries and then execute the script in your preferred code editor.
+
 ### Requirements
 
 - Python 3.10 or higher
